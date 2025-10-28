@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://adamgroban.github.io//sitemap.xml
+Sitemap: https://adamgroban.github.io/sitemap.xml
