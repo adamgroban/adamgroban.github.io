@@ -1,7 +1,7 @@
 layout: page
 title: Stable Stove
 description: A new type of portable camping stove that reduces tipping hazard while in mountainous terrain
-img: assets/img/stove3.jpg
+img: assets/img/stove3.png
 importance: 1
 category: work
 ---
@@ -11,12 +11,12 @@ This project was a part of my Engineering Projects class, where we were tasked w
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/stove1.jpg" title="Leg Prototyping" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/stove1.png" title="Leg Prototyping" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/stove2.jpg" title="Final CAD Assembly" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/stove3.jpg" title="Fully Manufactured Stove" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/stove3.png" title="Fully Manufactured Stove" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
