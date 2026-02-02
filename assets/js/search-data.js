@@ -466,11 +466,6 @@ ninja.data = [{
           description: "another without an image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
-            },},{id: "projects-stable-stove",
-          title: 'Stable Stove',
-          description: "A new type of portable camping stove that reduces fire hazards while in mountainous terrain",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/stable-stove/";
             },},{
         id: 'social-email',
         title: 'email',
