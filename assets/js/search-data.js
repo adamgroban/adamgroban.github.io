@@ -451,16 +451,16 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-declassify-ai",
-          title: 'Declassify.ai',
-          description: "An AI-powered course registration tool",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
+          section: "News",},{id: "projects-project-4",
           title: 'project 4',
           description: "another without an image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
+            },},{id: "projects-declassify-ai",
+          title: 'Declassify.ai',
+          description: "An AI-powered course registration tool",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/declassify/";
             },},{id: "projects-rear-differential",
           title: 'Rear Differential',
           description: "An industry-standard rear differential CAD model",
