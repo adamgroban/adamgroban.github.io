@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
+        },{id: "nav-resume",
+          title: "resume",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/resume/";
+          },
         },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
