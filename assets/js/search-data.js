@@ -402,7 +402,12 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-declassify-ai",
+          section: "News",},{id: "projects-catan-board",
+          title: 'Catan Board',
+          description: "Custom 3D-printed board game",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/catan-board/";
+            },},{id: "projects-declassify-ai",
           title: 'Declassify.ai',
           description: "An AI-powered course registration tool",
           section: "Projects",handler: () => {
