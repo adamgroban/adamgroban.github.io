@@ -407,16 +407,16 @@ ninja.data = [{
           description: "Custom 3D-printed board game",
           section: "Projects",handler: () => {
               window.location.href = "/projects/catan-board/";
-            },},{id: "projects-declassify-ai",
-          title: 'Declassify.ai',
-          description: "An AI-powered course registration tool",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/declassify/";
             },},{id: "projects-rear-differential",
           title: 'Rear Differential',
           description: "An industry-standard rear differential CAD model",
           section: "Projects",handler: () => {
               window.location.href = "/projects/diff/";
+            },},{id: "projects-esab-projects",
+          title: 'ESAB Projects',
+          description: "Various experiences throughout my internship with ESAB R&amp;D department",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/esab-projects/";
             },},{id: "projects-stable-stove",
           title: 'Stable Stove',
           description: "A new type of portable camping stove that reduces fire hazards while in mountainous terrain",
