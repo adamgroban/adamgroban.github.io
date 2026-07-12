@@ -414,7 +414,7 @@ ninja.data = [{
               window.location.href = "/projects/diff/";
             },},{id: "projects-esab-projects",
           title: 'ESAB Projects',
-          description: "Various experiences throughout my internship with ESAB R&amp;D department",
+          description: "Various projects throughout my internship with the ESAB R&amp;D department",
           section: "Projects",handler: () => {
               window.location.href = "/projects/esab-projects/";
             },},{id: "projects-stable-stove",
