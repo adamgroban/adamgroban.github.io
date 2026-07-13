@@ -402,7 +402,12 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-catan-board",
+          section: "News",},{id: "projects-ai-data-extraction-tool",
+          title: 'AI Data Extraction Tool',
+          description: "A fully offline data analysis program specifically for ESAB welding tests",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/ai-data-extractor/";
+            },},{id: "projects-catan-board",
           title: 'Catan Board',
           description: "Custom 3D-printed board game",
           section: "Projects",handler: () => {
@@ -412,9 +417,9 @@ ninja.data = [{
           description: "An industry-standard rear differential CAD model",
           section: "Projects",handler: () => {
               window.location.href = "/projects/diff/";
-            },},{id: "projects-esab-projects",
-          title: 'ESAB Projects',
-          description: "Various projects throughout my internship with the ESAB R&amp;D department",
+            },},{id: "projects-esab-product-design",
+          title: 'ESAB Product Design',
+          description: "Product design experience through my internship with the ESAB R&amp;D department",
           section: "Projects",handler: () => {
               window.location.href = "/projects/esab-projects/";
             },},{id: "projects-stable-stove",
@@ -422,6 +427,11 @@ ninja.data = [{
           description: "A new type of portable camping stove that reduces fire hazards while in mountainous terrain",
           section: "Projects",handler: () => {
               window.location.href = "/projects/stable-stove/";
+            },},{id: "projects-wire-arc-additive-manufacturing-literature-review",
+          title: 'Wire Arc Additive Manufacturing Literature Review',
+          description: "A deep dive into residual stress mitigation and thermal cycling effects on WAAM&#39;ed builds",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/waam-literature-review/";
             },},{
         id: 'social-email',
         title: 'email',
