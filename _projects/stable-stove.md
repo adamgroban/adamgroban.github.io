@@ -5,7 +5,7 @@ title: Stable Stove
 description: A new type of portable camping stove that reduces fire hazards while in mountainous terrain
 img: assets/img/stove2.png
 importance: 3
-category: recent
+category: Product Design
 ---
 
 ### The Problem:
