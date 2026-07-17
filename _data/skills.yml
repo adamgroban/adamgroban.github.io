@@ -96,3 +96,23 @@ items:
     category: expertise
     details:
       - "Stable Stove - Tensentric Human-Centered Design Award winner"
+  - name: Engineering Management
+    icon: fa-solid fa-sitemap
+    category: expertise
+    details:
+      - "Minor - Engineering Management"
+  - name: Teamwork
+    icon: fa-solid fa-users
+    category: expertise
+    details:
+      - "Stable Stove - team of four"
+      - "CU FSAE - several subteams, ~15 ppl/team"
+      - "ESAB Internship - 8-person engineering team"
+  - name: Communication
+    icon: fa-solid fa-commenting
+    category: expertise
+    details:
+      - "Stable Stove - team of four"
+      - "CU FSAE - several subteams, ~15 ppl/team"
+      - "ESAB Internship - 8-person engineering team"
+
