@@ -5,7 +5,7 @@ title: Stable Stove
 description: A new type of portable camping stove that reduces fire hazards while in mountainous terrain
 img: assets/img/stove2.png
 importance: 3
-category: Product Design
+category: Design
 ---
 
 ### The Problem:
@@ -19,10 +19,10 @@ We aimed to solve this problem with a portable camping stove attachment that kep
 
 ### My Role and Contributions:
 
-I was in charge of the prototyping phase, as well as being the primary CAD designer within the team. I utilized OnShape to design each part and 3D printed various prototypes throughout the project timeline. I performed various tests post-print, to determine how best to improve on each prototype.
+I was in charge of the prototyping phase, as well as being the primary CAD designer within the team. I utilized OnShape to design each part and 3D printed various prototypes throughout the project timeline. Components developed include: ball-jointed feet, length-adjustable legs, hinge-locking leg angles, and an adjustable clasp (taken from a snowboard!). I performed various tests post-print to determine how best to improve on each prototype.
 
 ### Outcome and Award:
-We presented this invention at the 2024 Collegiate Engineering Design Expo, competing against 89 teams and over 500 participants. We placed in the top four teams, being awarded the Tensentric Human Centered Design Award, given to the team which "best optimized user experience". This project introduced me to design for manufacturability, as well as giving me experience designing CAD models for ease-of-use by consumers.
+We presented this invention at the 2024 Collegiate Engineering Design Expo, competing against 89 teams and over 500 participants. We placed in the top four teams, being awarded the Tensentric Human Centered Design Award which was given to the team which "best optimized user experience". This project introduced me to design for manufacturability, as well as giving me experience designing CAD models for ease-of-use by consumers.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

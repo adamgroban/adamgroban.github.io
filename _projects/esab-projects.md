@@ -4,7 +4,7 @@ title: ESAB Product Design
 description: Product design experience through my internship with the ESAB R&D department
 img: assets/img/esab2.png
 importance: 1
-category: Product Design
+category: ESAB
 giscus_comments: false
 ---
 

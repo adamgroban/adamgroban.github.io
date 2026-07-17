@@ -3,14 +3,14 @@ layout: page
 title: Wire Arc Additive Manufacturing Literature Review
 description: A deep dive into residual stress mitigation and thermal cycling effects on WAAM'ed builds
 img: assets/img/waam1.png
-importance: 3
-category: Miscellaneous
+importance: 4
+category: ESAB
 giscus_comments: false
 ---
 
 ### The Scope:
 
-Wire Arc Additive Manufacturing is an emerging additive manufacturing method involving stacking welds in sculpted layers, and then machining down the excess to produce high-strength components. This method provides similar characteristics to forging or milling, but is cheaper, faster, and less material-intensive. The largest markets for this method include naval, aerospace, mining, and the oil and gas industries. ESAB customers want to use this new method to create cheap components using already-existing ESAB products.
+Wire Arc Additive Manufacturing is an emerging additive manufacturing method involving stacking welds in sculpted layers, and then machining down the excess to produce high-strength components. This method provides similar characteristics to forging or milling, but is cheaper, faster, and less material-intensive. The largest markets for this method include the naval, aerospace, mining, and oil and gas industries. ESAB customers want to use this new method to create cheap components using already-existing ESAB products.
 
 ### The Problems:
 

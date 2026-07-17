@@ -14,7 +14,7 @@ items:
       - "Stable Stove - lead CAD designer"
       - "CU FSAE - powertrain component design"
       - "Rear Differential - Solidworks part design, assembly, and drawing"
-  - name: ANSYS
+  - name: ANSYS FEA
     icon: fa-solid fa-calculator
     category: cad-coding
     details:
