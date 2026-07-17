@@ -4,7 +4,7 @@ title: AI Data Extraction Tool
 description: A fully offline data analysis program specifically for ESAB welding tests
 img: assets/img/ai1.png
 importance: 2
-category: recent
+category: Miscellaneous
 giscus_comments: false
 ---
 

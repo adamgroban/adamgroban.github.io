@@ -4,7 +4,7 @@ title: Catan Board
 description: Custom 3D-printed board game
 img: assets/img/catan2.png
 importance: 6
-category: recent
+category: Fun
 giscus_comments: false
 ---
 
