@@ -29,6 +29,12 @@ I saw this problem, and realized that AI could be a hugely successful tool for t
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/panda1.png" title="The result of a search query" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/ai2.png" title="The result of a search query" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/ai3.png" title="The result of a search query" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/ai4.png" title="The result of a search query" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
