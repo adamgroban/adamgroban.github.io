@@ -28,13 +28,13 @@ I saw this problem, and realized that AI could be a hugely successful tool for t
     As I started my work on PANDA, the sheer size of the database led to long loading times (sometimes up to 7 minutes depending on prompting). I was able to implement local caching that cleared each time to tool was closed, which took the average prompt loading time from over 5 minutes down to just 25 seconds.
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/ai2.png" title="The result of a search query" class="img-fluid rounded z-depth-1" %}
+    <div class="col-12 mb-3">
+        {% include figure.liquid loading="eager" path="assets/img/ai2.png" title="Spec Comparison — As-Welded Elongation" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/ai3.png" title="The result of a search query" class="img-fluid rounded z-depth-1" %}
+    <div class="col-12 mb-3">
+        {% include figure.liquid loading="eager" path="assets/img/ai3.png" title="First Test vs Retest Failure Analysis" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/ai4.png" title="The result of a search query" class="img-fluid rounded z-depth-1" %}
+    <div class="col-12 mb-3">
+        {% include figure.liquid loading="eager" path="assets/img/ai4.png" title="Side-by-Side Comparison" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
