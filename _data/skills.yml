@@ -14,17 +14,22 @@ items:
       - "Stable Stove - lead CAD designer"
       - "CU FSAE - powertrain component design"
       - "Rear Differential - Solidworks part design, assembly, and drawing"
+  - name: Siemens NX
+    icon: fa-solid fa-space-shuttle
+    category: cad-coding
+    details:
+      - ""
   - name: ANSYS FEA
     icon: fa-solid fa-calculator
     category: cad-coding
     details:
       - "CU FSAE - component FEA analysis + exhaust gas CFD analysis"
       - "Computational Methods (MCEN 3030)"
-  - name: Siemens NX
-    icon: fa-solid fa-space-shuttle
+  - name: OnShape
+    icon: fa-solid fa-cubes
     category: cad-coding
     details:
-      - ""
+      - "Stable Stove - Ball and Socket foot design with OnShape"
   - name: AI
     icon: fa-solid fa-desktop
     category: cad-coding
@@ -35,33 +40,40 @@ items:
     category: cad-coding
     details:
       - Computational Methods (MCEN 3030)
-  - name: Java
-    icon: fa-brands fa-java
-    category: cad-coding
-    details:
-      - "CS Peer Tutor - tutor for high school CS students"
   - name: Python
     icon: fa-brands fa-python
     category: cad-coding
     details:
       - "AI Data Extraction Tool - completed project using Python"
       - "CS Peer Tutor - tutor for high school CS students"
-  - name: Engineering Drafting
-    icon: fa-solid fa-file-lines
+  - name: Java
+    icon: fa-brands fa-java
     category: cad-coding
     details:
-      - "CU FSAE - manufacture of all components from engineering drawings"
-      - "Rear Differential - each component drafted, along with BOM and full assembly draft"
+      - "CS Peer Tutor - tutor for high school CS students"
   - name: Microsoft Excel
     icon: fa-solid fa-file-excel
     category: cad-coding
     details:
       - "ESAB Internship - various projects"
       - "WAAM Literature Review - data aggregation"
-  - name: 3D Printing
+  - name: Data Anlysis
+    icon: fa-solid fa-filter
+    category: cad-coding
+    details:
+      - "ESAB Internship - AI Data Extraction tool"
+      - "WAAM Literature Review - data aggregation"
+  - name: Engineering Drafting
+    icon: fa-solid fa-file-lines
+    category: cad-coding
+    details:
+      - "CU FSAE - manufacture of all components from engineering drawings"
+      - "Rear Differential - each component drafted, along with BOM and full assembly draft"
+  - name: Additive Manufacturing
     icon: fa-solid fa-print
     category: machining
     details:
+      - "ESAB Internship - Literature Review on Wire Arc Additive Manufacturing application with ESAB clients"
       - "Stable Stove - led prototyping phase, all prototypes and final design 3D printed"
       - "Catan Board - manufactured using 3D printing"
   - name: Welding

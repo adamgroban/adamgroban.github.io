@@ -25,7 +25,7 @@ I saw this problem, and realized that AI could be a hugely successful tool for t
     The testing spreadsheet has been around for so long that data was often incomplete or ill-formatted. Typos and entry errors were common, so I had to implement fuzzy matching to account for any typos (both in data entry and tool access). A local model is worse at extrapolating meaning from poor entries, so I had to compensate by manually coding for many common phrases.
 
 3. Loading times.
-    As I started my work on PANDA, the sheer size of the database led to long loading times (sometimes up to 7 minutes depending on prompting). I was able to implement local caching that cleared each time to tool was closed, which took the average prompt loading time from over 5 minutes down to just 25 seconds.
+    As I started my work on PANDA, the sheer size of the database led to long loading times (sometimes up to 7 minutes depending on prompting). I was able to implement local caching that cleared each time the tool was closed, which took the average prompt loading time from over 5 minutes down to just 25 seconds.
 
 <div class="row">
     <div class="col-12 mb-3">

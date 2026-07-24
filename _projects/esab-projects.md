@@ -10,11 +10,11 @@ giscus_comments: false
 
 ### Product Design
 
-My time with ESAB gave me a valuable experience on the product design cycle. I started with the product engineers, helping with the chemical formulations behind new coated electrode prototypes. I walked through the various classifications and requirements new products need to pass, and learned about the materials science applications of each design.
+My time with ESAB gave me a valuable experience on the product design cycle. I started with the product engineers, helping with the chemical formulations behind a new stainless steel stick electrode. The product had recieved feedback which included poor welding in vertical corners. We had to figure out new raw materials to include in the formulation to improve this while still maintaining the strengths of the product in other areas. We also had to work within various regulations that welding products need to pass for military applications. We formulated two new designs, each with a different material amount and combination.
 
 I then spent time with Engineering Technicians, actually fabricating the different prototypes I had helped design. I was able to make both electrodes and flux-cored wire.
 
-Finally, I worked with test welders to see how the prototypes held up in field-like conditions. While the potential product failed some tests, the addition of new raw materials increased the electrode performance when welding vertically (a problem area for the customer). I then graded the welds and the overall product, and brought that criteria back to the product engineers to begin the cycle again.
+Finally, I worked with test welders to see how the prototypes held up in field-like conditions. While the potential product failed some tests, the addition of new raw materials increased performance in the vertical direction. Not only that, but it surpassed vertical weldability compared to select competitors. I graded the welds and the overall product, and brought that criteria back to the product engineers to begin the cycle again.
 
 Attached below are pictures and videos of my test welding, as well as a picture of the team on my last day.
 

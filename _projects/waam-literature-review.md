@@ -17,12 +17,12 @@ Wire Arc Additive Manufacturing is an emerging additive manufacturing method inv
 1. Thermal cycling.
     WAAM'ed builds face issues with reheating the previous pass when new layers are stacked, changing the material properties and weakening components. Specifically, this reheating leads to changes in grain sizes and phase changes, both of which ultimately distort the build and create weaker designs.
 
-2. Residual Stresses in the through-thickness direction.
+2. Residual stresses in the through-thickness direction.
     The layers of a WAAM component cool unevenly, which almost always lead to residual stress through the build. This again weakens the component and can lead to failure even under normal usage.
 
 ### My Findings
 
-I found that heat treatment of all builds post-build signifigantly improves thermal cycling issues. This heat treatment allows for grain size refinement, and ensure that any unwanted phase changes are dealt with before machining. I was also able to show that the addition of scandium into aluminum WAAM builds allows for proper heat treatment, increasing the UTS of components by almost 30%. Not only that, but I was able to determine ranges for core material interpass temps, heat inputs, and cooling rates.
+I found that heat treatment of all components post-build significantly improves thermal cycling and residual stress issues. This heat treatment allows for grain size refinement, and ensures that any unwanted phase changes are dealt with before machining. I was also able to show that the addition of scandium into aluminum WAAM builds allows for proper heat treatment, increasing the UTS of components by almost 30%. Not only that, but I was able to determine ranges for core material interpass temps, heat inputs, and cooling rates.
 
 This document was used as important background knowledge as ESAB moves into the experimental phase for this new technology. My overall reccomendations involved specific testing guidelines and experimental analysis of the core materials when subjected to heat treatments and scandium addition.
 
