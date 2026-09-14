@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an Honors Mechanical Engineering student pursuing a minor in Engineering Management from CU Boulder. I have a strong passion for human-centered design and various 3D modeling techniques. I’ve become skilled in these areas from a few different experiences:
+I am an Honors Mechanical Engineering student pursuing a minor in Engineering Management from CU Boulder. I have a strong passion for human-centered design and the product design cycle. I’ve become skilled in these areas from a few different experiences:
 
 1. Interning with ESAB Corporation's R&D department, which allowed me to help with the full product design cycle of flux-coated welding electrodes. I was able to reformulate product chemistries, fabricate the new prototypes, and weld with them while comparing against competitor products.
 
