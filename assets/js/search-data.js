@@ -407,11 +407,6 @@ ninja.data = [{
           description: "A fully offline data analysis program specifically for ESAB welding tests",
           section: "Projects",handler: () => {
               window.location.href = "/projects/ai-data-extractor/";
-            },},{id: "projects-catan-board",
-          title: 'Catan Board',
-          description: "Custom 3D-printed board game",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/catan-board/";
             },},{id: "projects-rear-differential",
           title: 'Rear Differential',
           description: "An industry-standard rear differential CAD model",
