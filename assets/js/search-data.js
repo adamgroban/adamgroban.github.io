@@ -412,6 +412,11 @@ ninja.data = [{
           description: "An industry-standard rear differential CAD model",
           section: "Projects",handler: () => {
               window.location.href = "/projects/diff/";
+            },},{id: "projects-drill-powered-vehicle",
+          title: 'Drill-Powered Vehicle',
+          description: "An endurance-racing vehicle powered by a hand drill",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/drill-powered-bike/";
             },},{id: "projects-esab-product-design",
           title: 'ESAB Product Design',
           description: "Product design experience through my internship with the ESAB R&amp;D department",
